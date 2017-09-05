@@ -1,0 +1,14 @@
+/*--------SIMPLE CODE TO CENTRALLY ALIGN ELEMENT-----*/
+
+/*------PARENT ELEMENT----*/
+
+.banner2 {
+text-align: center;
+  }
+  
+/*-----CHILD ELEMENT-----*/
+
+  .banner2 img {
+  margin-left: auto;
+  margin-right: auto;
+}
